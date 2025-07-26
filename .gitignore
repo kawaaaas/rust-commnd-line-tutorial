@@ -1,6 +1,6 @@
 # ビルド成果物
-*/target/
+/target/
 # Cargoのキャッシュ
-*/.cargo/registry/
+/.cargo/registry/
 # Cargoのビルドキャッシュ
-*/.cargo/git/ 
+/.cargo/git/ 
